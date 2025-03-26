@@ -31,10 +31,6 @@ html,body{
     gap:20px;
 }
 a{
-    /* text-decoration: none;
-    color: black;
-    font-size: 15px;
-    padding-block: 10px; */
     color:inherit;
 }
 li:hover{
